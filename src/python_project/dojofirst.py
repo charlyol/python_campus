@@ -1,0 +1,2 @@
+class dojofirst:
+    pass
